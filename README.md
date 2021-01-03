@@ -1,2 +1,2 @@
 # VueAuthy
- Simple Vue Authentication SPA
+ Simple Laravel Vue Authentication SPA
